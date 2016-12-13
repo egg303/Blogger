@@ -409,14 +409,15 @@ a.new_article,
     background-image: -moz-linear-gradient(#ffffff, #cccccc);
     background-image: linear-gradient(#ffffff, #cccccc);
     text-shadow: #fff 0 1px;
-    color: #999999;
+    color: #777;
     text-decoration: none
 }
 .top-button:hover,
 a.new_article:hover,
 .article_actions a[href$='edit']:hover,
 .article_actions a[data-method='delete']:hover {
-    color: #555
+    color: #555;
+    text-shadow: #fff 0 -1px;
 }
 .top-button:active,
 a.new_article:active,
