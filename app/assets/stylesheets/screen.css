@@ -147,7 +147,7 @@ h1 {
     font-family: "Yanone Kaffeesatz", sans
 }
 html {
-    background: #d3dd8a;
+    background: #dda;
     -moz-background-size: 80px 80px;
     -webkit-background-size: 80px 80px;
     -o-background-size: 80px 80px;
@@ -323,7 +323,7 @@ h1 {
     font-weight: normal;
     color: #EFE7D3;
     position: relative;
-    text-shadow: #888 0 1px, #555 0 2px,#383838 0 3px,#232323 0 4px,#111 0 5px,#111 0 5px 2px, #222 0 5px 4px,#222 0 5px 8px, #222 0 5px 12px;
+    text-shadow: #a8a8a8 0 1px, #888 0 2px,#5a5a5a 0 3px,#444 0 4px,#333 0 5px,#111 0 5px 1px,#111 0 5px 3px, #111 0 5px 5px,#111 0 5px 8px, #111 0 5px 12px;
     font-size: 2.5em
 }
 h1:after {
@@ -660,8 +660,8 @@ input[type=submit]:hover,
 input[type=submit]:focus {
     background-color: #11467c;
     background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #769bbf), color-stop(10%, #466d94), color-stop(50%, #283f55), color-stop(50%, #23374b), color-stop(100%, #34516d));
-    background-image: -moz-linear-gradient(#769bbf, #466d94 10%, #283f55 50%, #23374b 50%, #34516d);
-    background-image: linear-gradient(#769bbf, #466d94 10%, #283f55 50%, #23374b 50%, #34516d);
+    background-image: -moz-linear-gradient(#bf9b76, #946d46 10%, #553f28 50%, #4b3723 50%, #6d5134);
+    background-image: linear-gradient(#bf9b76, #946d46 10%, #553f28 50%, #4b3723 50%, #6d5134);
     border-color: #15202c;
     text-shadow: #02070c 0px 1px 1px
 }
@@ -674,8 +674,8 @@ input[type=submit]:focus:visited {
 input[type=submit]:active {
     background-color: #0f3f6e;
     background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #283f55), color-stop(30%, #2b445c), color-stop(50%, #253a4e), color-stop(50%, #203244), color-stop(100%, #355371));
-    background-image: -moz-linear-gradient(#283f55, #2b445c 30%, #253a4e 50%, #203244 50%, #355371);
-    background-image: linear-gradient(#283f55, #2b445c 30%, #253a4e 50%, #203244 50%, #355371);
+    background-image: -moz-linear-gradient(#553f28, #5c442b 30%, #4e3a25 50%, #443220 50%, #715335);
+    background-image: linear-gradient(#553f28, #5c442b 30%, #4e3a25 50%, #443220 50%, #715335);
     border-color: #101821;
     text-shadow: #000 0px -1px -1px;
     -moz-box-shadow: #192836 0 0.08em 0.2em 1px inset;
