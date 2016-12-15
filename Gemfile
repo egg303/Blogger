@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 
 #easy file attachment library for ActiveRecord
 gem 'paperclip'
+#authentication
+gem 'sorcery'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
