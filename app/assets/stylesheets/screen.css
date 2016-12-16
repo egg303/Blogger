@@ -590,7 +590,7 @@ form textarea:focus {
     -moz-box-shadow: rgba(223, 177, 129, 0.7) 0 0 5px 1px inset;
     -webkit-box-shadow: rgba(223, 177, 129, 0.7) 0 0 5px 1px inset;
     -o-box-shadow: rgba(223, 177, 129, 0.7) 0 0 5px 1px inset;
-    box-shadow: rgba(223, 177, 129, 0.7, 0.7) 0 0 5px 1px inset;
+    box-shadow: rgba(223, 177, 129, 0.7) 0 0 5px 1px inset;
     border-color: #dfb181;
     background-color: #fff
 }
